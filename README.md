@@ -3,7 +3,7 @@
 This repository contains Project 1 for the Microcomputer System course, written in 8051 Assembly Language.
 
 ## Directory Structure
-- `project1_繳交檔/`: Contains the final source code submissions (e.g., `Project_方法一.asm`, `Project_方法二.asm`, and `IDE_test.asm`).
+- `project1_submission/`: Contains the final source code submissions (e.g., `Project_Method1.asm`, `Project_Method2.asm`, and `IDE_test.asm`).
 - `project1_ide_test/`: Contains the test project files and virtual hardware configurations for MCU 8051 IDE (`.adf`, `.mcu8051ide`, `.vhw`).
 
 ## Development Environment
