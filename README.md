@@ -41,6 +41,3 @@ The project explores two different logic approaches to achieve the display requi
 
 
 
-## 👥 Authors
-* 1100423 陳叡逸
-* 1100427 林冠宇
