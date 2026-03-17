@@ -2,7 +2,7 @@
 
 This repository contains Project 1 for the Microcomputer System course, written in 8051 Assembly Language.
 
-## ?? Project Description
+## üìù Project Description
 This project implements an 8051 Assembly program to continuously display a group member's student ID (leading with a "0", e.g., `01100423`) on an 8-digit 7-segment LED display. The displays take turns showing their contents based on a specific hardware sequence.
 
 **Display Sequence:**
@@ -14,7 +14,7 @@ The required display order is:
 - Whenever a digit is on, it lasts for 1.0 second.
 - When all the digits are off (between displays), it lasts for 0.5 second.
 
-## ?í° Implementation Methods
+## üí° Implementation Methods
 The project explores two different logic approaches to achieve the display requirements:
 
 ### Method 1: Direct Sequencing 
@@ -27,7 +27,7 @@ The project explores two different logic approaches to achieve the display requi
 - **Pros:** The student ID is written in order, providing excellent readability and making it very easy to change the ID.
 - **Cons:** The assembly logic is more complex, requiring conditional jumps to adjust the pointer and direction.
 
-## ?? Directory Structure
+## üìÇ Directory Structure
 - `project1_submission/`: Contains the final source code submissions and documentation.
   - `Project_Method1.asm`: Implementation using Method 1.
   - `Project_Method2.asm`: Implementation using Method 2.
