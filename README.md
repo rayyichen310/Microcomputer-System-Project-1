@@ -99,3 +99,9 @@ Contains the testing project files and virtual hardware configurations for **MCU
 - `.adf`
 - `.mcu8051ide`
 - `.vhw`
+
+---
+## 🎥 Demo Videos
+
+- [Microcomputer System (8051) Project 1 Demo Video](https://www.youtube.com/watch?v=ve1Dxizj1So) — Hardware Demonstration
+- [Microcomputer System (8051) Project 1 IDE Demo](https://www.youtube.com/watch?v=8tbQTQPz-Gc) — IDE Simulation
